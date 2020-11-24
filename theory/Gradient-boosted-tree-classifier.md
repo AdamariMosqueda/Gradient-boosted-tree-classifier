@@ -1,6 +1,6 @@
 <div align="center">
 
-**TECNOLÓGICO NACIONAL DE MÉXIO**
+#### TECNOLÓGICO NACIONAL DE MÉXIO**
 
 INSTITUTO TECNOLÓGICO DE TIJUANA
 
@@ -12,31 +12,41 @@ SEMESTRE SEPTIEMBRE 2020 – ENERO 2021
 
 INGENIERÍA EN SISTEMAS COMPUTACIONALES
 
+
+
 ![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/logo.png)
 
-**MASTER**
+
+
+##### MASTER
 
 JOSÉ CHRISTIAN ROMERO HERNÁNDEZ
 
-**CLASS**
+##### CLASS
 BIG DATA 
 
-**UNIT 2**
+### UNIT 2
 
-**GRADIENT-BOOSTED-TREE-CLASSIFIER**
+#### GRADIENT-BOOSTED-TREE-CLASSIFIER
 
 
-**TEAM**
+##### TEAM
 
-BERNARDINO MARTINEZ JERONIO
+BERNARDINO MARTINEZ JERONIO 14212334
+
 CERON URIBE ARTURO
+
 GUTIERREZ LUNA YURIDIA NAYELI
-HERNANDEZ GAMBINO KEVIN JOSAFAT 
+
+HERNANDEZ GAMBINO KEVIN JOSAFAT 17211049
+
 MARTINEZ FLORES PAMELA STEPHANY	16212034
+
 MOSQUEDA ESPINOZA ADAMARI ANTONIA 16212363
 
 
 Tijuana, Baja California, november 25, 2020.
+
 
 </div>
 
@@ -54,7 +64,7 @@ Gradient boosting es una técnica de aprendizaje automático para problemas de r
 
 Gradient boosting básicamente combina a los alumnos débiles en un solo alumno fuerte de una manera iterativa. A medida que se añade cada alumno débil, se ajusta un nuevo modelo para proporcionar una estimación más precisa de la variable de respuesta. Los nuevos alumnos débiles se correlacionan al máximo con el gradiente negativo de la función de pérdida, asociado con todo el conjunto. La idea de aumentar el gradiente es que se puede combinar un grupo de modelos de predicción relativamente débiles para construir un modelo de predicción más fuerte.
 
-#### Ejemplo 
+### Ejemplo 
 
 Como hemos dicho, boosting es la creación de un clasificador fuerte a partir de muchos débiles. Por ejemplo si tenemos 2 árboles, la predicción sería la suma de las clasificaciones:
 
@@ -62,7 +72,7 @@ Como hemos dicho, boosting es la creación de un clasificador fuerte a partir de
 
 Matemáticamente se expresa de la siguiente forma:
 
-_Si tenemos 2 árboles, se suman las predicciones_
+**_Si tenemos 2 árboles, se suman las predicciones_**
 
 Pero tambíen se puede expresar como la suma del último árbol a lo que ya teníamos sumado.
 
@@ -81,7 +91,7 @@ Esta función **ŷ** es nuestra predicción y tenemos que optimizarla. Para ello
 
 Gradient boosting es una herramienta práctica útil para las tareas de predicción, y proporciona consistentemente resultados de mayor precisión en comparación con los modelos convencionales de aprendizaje automático. Por ejemplo, el aumento del gradiente ayuda a crear modelos que pueden mapear las lecturas de los sensores EMG y EEG al seguimiento del movimiento humano y el reconocimiento de la actividad.
 
-#### Fuentes de consulta 
+### Fuentes de consulta 
 - https://towardsdatascience.com/machine-learning-part-18-boosting-algorithms-gradient-boosting-in-python-ef5ae6965be4 
 - https://fhernanb.github.io/libro_mod_pred/gradboost.html 
 - https://spainml.com/blog/como-funciona-gradient-boosting/ 
