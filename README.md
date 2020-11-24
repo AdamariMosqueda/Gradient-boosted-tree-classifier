@@ -1,3 +1,14 @@
+
+**Gradient Boosted tree classifier**
+
+**Content**
+Table of contents
+- Teory
+  - [Gradient Boosted tree classifier](/theory/README.md)
+- Examples
+  - [Example](\examples\README.md)
+
+  
 <div align="center">
 
 ## TECNOLÓGICO NACIONAL DE MÉXICO | INSTITUTO TECNOLÓGICO DE TIJUANA
@@ -43,12 +54,3 @@ MOSQUEDA ESPINOZA ADAMARI ANTONIA 16212363
 
 **TIJUANA, BAJA CALIFORNIA, NOVEMBER 25, 2020.** 
 </div>
-
-**Gradient Boosted tree classifier**
-
-**Content**
-Table of contents
-- Teory
-  - [Gradient Boosted tree classifier](/theory/README.md)
-- Examples
-  - [Example](\examples\README.md)
