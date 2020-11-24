@@ -12,7 +12,7 @@ SEMESTRE SEPTIEMBRE 2020 – ENERO 2021
 
 INGENIERÍA EN SISTEMAS COMPUTACIONALES
 
-![]()
+![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/logo.png)
 
 **MASTER**
 
@@ -58,7 +58,7 @@ Gradient boosting básicamente combina a los alumnos débiles en un solo alumno 
 
 Como hemos dicho, boosting es la creación de un clasificador fuerte a partir de muchos débiles. Por ejemplo si tenemos 2 árboles, la predicción sería la suma de las clasificaciones:
 
-![]()
+![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/example.png)
 
 Matemáticamente se expresa de la siguiente forma:
 
@@ -66,15 +66,18 @@ _Si tenemos 2 árboles, se suman las predicciones_
 
 Pero tambíen se puede expresar como la suma del último árbol a lo que ya teníamos sumado.
 
-![]()
+![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/math1.png)
 
 Esta función **ŷ** es nuestra predicción y tenemos que optimizarla. Para ello creamos una función objetivo (basada en el error cuadrático por ejemplo) que tenemos que minimizar:
+
+![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/math2.png)
+
 
 ### Aplicaciones 
 
 "Neurobiótica se refiere al estudio del sistema nervioso en conjunto con la tecnología. De particular importancia en el campo de la neurobiótica es el cerebro y su interacción directa con los sistemas informáticos, así como los métodos de simulación externa del cerebro"
 
-![]()
+![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/neuro.png)
 
 Gradient boosting es una herramienta práctica útil para las tareas de predicción, y proporciona consistentemente resultados de mayor precisión en comparación con los modelos convencionales de aprendizaje automático. Por ejemplo, el aumento del gradiente ayuda a crear modelos que pueden mapear las lecturas de los sensores EMG y EEG al seguimiento del movimiento humano y el reconocimiento de la actividad.
 
