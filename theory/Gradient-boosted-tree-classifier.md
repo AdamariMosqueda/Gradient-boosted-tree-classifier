@@ -14,7 +14,7 @@ INGENIERÍA EN SISTEMAS COMPUTACIONALES
 
 
 
-![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/logo.png)
+![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/logo.png=100x100)
 
 
 
@@ -35,9 +35,9 @@ BIG DATA
 
 BERNARDINO MARTINEZ JERONIO 14212334
 
-CERON URIBE ARTURO
+CERON URIBE ARTURO 17211506
 
-GUTIERREZ LUNA YURIDIA NAYELI
+GUTIERREZ LUNA YURIDIA NAYELI 16212353
 
 HERNANDEZ GAMBINO KEVIN JOSAFAT 17211049
 
