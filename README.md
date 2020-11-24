@@ -10,7 +10,7 @@ SEMESTRE SEPTIEMBRE 2020 – ENERO 2021
 
 INGENIERÍA EN SISTEMAS COMPUTACIONALES
 
-![](/images/logo.png = 200 x 200 pixels)
+![](https://github.com/../../images/logo.png= 200 x 200 pixels)
 
 
 ### MASTER
