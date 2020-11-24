@@ -10,7 +10,7 @@ SEMESTRE SEPTIEMBRE 2020 – ENERO 2021
 
 INGENIERÍA EN SISTEMAS COMPUTACIONALES
 
-![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/logo.png)
+![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/logo.png=200x200)
 
 
 ### MASTER
