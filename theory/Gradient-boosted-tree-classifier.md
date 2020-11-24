@@ -11,8 +11,9 @@ DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
 SEMESTRE SEPTIEMBRE 2020 – ENERO 2021
 
 INGENIERÍA EN SISTEMAS COMPUTACIONALES
-
-<img src="../images/logo.png" alt style="max-width:40%;">
+<div style="width:50%">
+<img src="../images/logo.png" width="200" height="200"/>
+</div>
 
 
 
