@@ -64,7 +64,11 @@ This **ŷ** function is our prediction and we have to optimize it. For this we c
 
 ### Aplications
 "Neurobiotics refers to the study of the nervous system in conjunction with technology. Of particular importance in the field of neurobiotics is the brain and its direct interaction with computer systems, as well as external brain simulation methods"
+
+
 ![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/neuro.png)
+
+
 Gradient boosting is a handy tool for prediction tasks, and it consistently provides higher precision results compared to conventional machine learning models. For example, increasing the gradient helps create models that can map EMG and EEG sensor readings to human movement tracking and activity recognition.
 ### GBRT
 GBRT is an accurate and effective business procedure that can be used for both regression and classification problems. Gradient Tree Boosting models are used in a variety of areas, including web search classification and ecology.
