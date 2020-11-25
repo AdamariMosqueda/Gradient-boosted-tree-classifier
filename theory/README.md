@@ -26,7 +26,7 @@ Table of contents
 ## Introduction
 In this repository, in the theory folder, the characteristics will be discussed, how the calculation is carried out and the considerations that are taken into account for the use of gradient-enhanced trees, as well as the purchase of other types of representations and mathematical calculations for compare their effectiveness and see their differences.
 In the examples folder you will see an example taken from the spark page to see via code the application of the theory within our scala tool.
-## Developing
+## Development
 ### Concepts
 Gradient boosting is a machine learning technique for regression and classification problems that produce a prediction model in the form of a set of weak prediction models. This technique builds a model in a scenic way and generalizes the model allowing the optimization of an arbitrary differentiable loss function.
 Boosting is another ensemble strategy that can be used with a wide group of statistical learning methods, including decision trees. The idea behind boosting is to sequentially fit multiple weak learners (simple models that predict only slightly better than expected by chance).
@@ -45,13 +45,23 @@ Gradient Boosting basically combines weak students into one strong student in an
 | All the learners have equal weights in the case of gradient boosting. The weight is usually set as the learning rate which is small in magnitude. | The final prediction is based on a majority vote of the weak learners’ predictions weighted by their individual accuracy. | 
 ### Visual example
 As we have said, boosting is creating a strong classifier out of many weak ones. For example, if we have 2 trees, the prediction would be the sum of the classifications:
+
 ![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/example.png)
+
+
 Mathematically it is expressed as follows:
+
 **_If we have 2 trees, the predictions are added_**
+
 But it can also be expressed as the sum of the last tree to what we already had added.
+
 ![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/math1.png)
-This ** ŷ ** function is our prediction and we have to optimize it. For this we create an objective function (for example, based on the quadratic error) that we have to minimize:
+
+This **ŷ** function is our prediction and we have to optimize it. For this we create an objective function (for example, based on the quadratic error) that we have to minimize:
+
 ![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/math2.png)
+
+
 ### Aplications
 "Neurobiotics refers to the study of the nervous system in conjunction with technology. Of particular importance in the field of neurobiotics is the brain and its direct interaction with computer systems, as well as external brain simulation methods"
 ![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/neuro.png)
