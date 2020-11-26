@@ -6,7 +6,7 @@ Table of contents
 
 - [Gradient Boosted tree classifier](#gradient-boosted-tree-classifier)
   - [Introduction](#introduction)
-  - [Developing](#developing)
+  - [Development](#development)
     - [Concepts](#concepts)
     - [Components](#components)
     - [How does it work?](#how-does-it-work)
@@ -86,7 +86,8 @@ can parallelize.
 The sklearn.ensemble module provides methods for classification and
 regression through gradient-powered regression trees.
 ## Conclution
-
+This type of tree helps us see 'where we are' and 'where we want to go' no longer seems to work, and things become more interesting.
+As in the other types of prediction, this one helps us with training data and then with test data in order to have the least margin of error.
 ## References
 - Cory Maklin. (2019). Gradient Boosting Decision Tree Algorithm Explained. 2020, de towardsdatascience Sitio web: https://towardsdatascience.com/machine-learning-part-18-boosting-algorithms-gradient-boosting-in-python-ef5ae6965be4
 - Freddy Hernández. (2020). Gradient Boost. 2020, de github Sitio web: https://fhernanb.github.io/libro_mod_pred/gradboost.html
