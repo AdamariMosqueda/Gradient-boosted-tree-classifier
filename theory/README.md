@@ -48,7 +48,17 @@ Gradient Boosting basically combines weak students into one strong student in an
 | Weak learners are decision trees constructed in a greedy manner with split points based on purity scores (i.e., Gini, minimise loss). Thus, larger trees can be used with around 4 to 8 levels. Learners should still remain weak and so they should be constrained (i.e., the maximum number of layers, nodes, splits, leaf nodes) | The weak learners incase of adaptive boosting are a very basic form of decision tree known as stumps. |
 | All the learners have equal weights in the case of gradient boosting. The weight is usually set as the learning rate which is small in magnitude. | The final prediction is based on a majority vote of the weak learners’ predictions weighted by their individual accuracy. | 
 ### Visual example
-As we have said, boosting is creating a strong classifier out of many weak ones. For example, if we have 2 trees, the prediction would be the sum of the classifications:
+
+The tree ensemble model consists of a set of classification and regression trees (CART). Here’s a simple example of a CART that classifies whether someone will like a hypothetical computer game X.
+
+![Imgur](https://imgur.com/C0Q5uNQ.png)
+
+
+We classify the members of a family into different leaves, and assign them the score on the corresponding leaf. A CART is a bit different from decision trees, in which the leaf only contains decision values. In CART, a real score is associated with each of the leaves, which gives us richer interpretations that go beyond classification. This also allows for a principled, unified approach to optimization, as we will see in a later part of this tutorial.
+
+Usually, a single tree is not strong enough to be used in practice. What is actually used is the ensemble model, which sums the prediction of multiple trees together.
+
+
 
 ![](https://github.com/AdamariMosqueda/Gradient-boosted-tree-classifier/blob/master/images/example.png)
 
