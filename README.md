@@ -3,10 +3,10 @@
 
 **Content**
 Table of contents
-- Teory
+- Theory
   - [Gradient Boosted tree classifier](/theory/README.md)
 - Examples
-  - [Example](\examples\README.md)
+  - [Example](/examples/README.md)
 
   
 <div align="center">
